@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .t{
+            display: block;
+    width: 100%;
+    overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="w-full md:w-3/4 pb-4"><div class="px-4 md:px-10 py-4 bg-white shadow-sd-12 rounded-sm"><div class="flex items-center w-full"><div class="flex border box-border p-1 rounded items-center flex-none w-[36px] md:w-[70px] h-[36px] md:h-[70px]"><img alt="logo" class="relative rounded my-auto w-full h-auto max-h-full" src="https://cdn1.vieclam24h.vn/upload/files_cua_nguoi_dung/logo/2019/12/30/2622034_vieclam24h_1577686728.png"></div><div class="ml-5"><a href="/danh-sach-tin-tuyen-dung-cen-land-cong-ty-co-phan-bat-dong-san-the-ky-ntd2622034p73.html"><h3 class="font-semibold text-18">CEN LAND - Công Ty Cổ Phần Bất Động Sản Thế Kỷ</h3></a><p class="text-se-neutral-48-n text-12">Trên 300 người</p></div></div><hr class="my-4 border-se-blue-10"><div class="flex items-center"><div class="w-full md:w-4/5"><h3 class="font-semibold text-24 leading-snug">(Cenland) Nhân Viên Kinh Doanh Thẻ Golf - Lương Cơ Bản 5-9 Triệu + Hoa Hồng</h3><div class="flex items-center justify-between md:justify-start py-3"><div class="flex flex-col md:flex-row"><div class="flex items-center text-12"><i class="text-16 svicon-calendar-day text-se-neutral-48-n pr-2"></i><span>Hạn nộp hồ sơ: 19/01/2022</span></div><div class="flex items-center text-12 mx-0 md:mx-4 py-2 md:py-0"><i class="text-16 svicon-bell text-se-neutral-48-n pr-2"></i><span>Lượt xem: <!-- -->155</span></div><div class="flex items-center text-12"><i class="text-16 svicon-clock text-se-neutral-48-n pr-2"></i><span>Đăng ngày: 26/12/2021</span></div></div><div class="block md:hidden"></div></div><div class="flex items-center flex-col md:flex-row"><button class="py-3 px-6 mb-4 md:mb-0 bg-primary text-white text-14 rounded-sm w-full md:w-[152px]">Nộp hồ sơ</button><div class="flex justify-between w-full md:w-auto"><button class="flex items-center justify-center py-3 px-6 text-14 border border-se-line rounded-sm w-full md:w-[152px] font-semibold mr-3 md:mx-4"><i class="svicon-bookmark text-se-accent-100 pr-2 text-18"></i>Đánh dấu</button><button class="flex items-center justify-center py-3 px-6 text-14 border border-se-line rounded-sm w-full md:w-[152px] font-semibold"><i class="svicon-share-alt text-se-accent-100 pr-2 text-18"></i>Chia sẻ</button></div></div></div><div class="w-1/5 hidden md:block"></div></div><hr class="my-4 border-se-blue-10"><div class="grid grid-cols-2 md:grid-cols-4 gap-4"><div class="md:border-r border-se-blue-10"><div class="text-12 text-se-neutral-48-n pb-2">Yêu cầu kinh nghiệm</div><div class="text-14 font-semibold">1 năm</div></div><div class="md:border-r border-se-blue-10"><div class="text-12 text-se-neutral-48-n pb-2">Mức lương</div><div class="text-14 font-semibold">10 - 20 triệu</div></div><div class="md:border-r border-se-blue-10"><div class="text-12 text-se-neutral-48-n pb-2">Cấp bậc</div><div class="text-14 font-semibold">Chuyên viên- nhân viên</div></div><div><div class="text-12 text-se-neutral-48-n pb-2">Hình thức làm việc</div><div class="text-14 font-semibold">Toàn thời gian cố định</div></div></div><hr class="my-4 border-se-blue-10"><h4 class="text-18 font-semibold pb-2">Thông tin</h4><div class="grid grid-cols-1 md:grid-cols-2 md:gap-6"><div><div class="flex py-1"><div class="w-1/2 md:w-2/5 text-14 text-grey-50 mr-4 md:mr-0">Ngành nghề:</div><div class="w-1/2 md:w-3/5 text-14 font-semibold"><a title="Việc làm ngành Bán hàng" href="/mien-bac/viec-lam-ban-hang-c113.html">Bán hàng<span class="mx-1">/</span></a><a title="Việc làm ngành Nhân viên kinh doanh" href="/mien-bac/viec-lam-nhan-vien-kinh-doanh-c159.html">Nhân viên kinh doanh<span class="mx-1">/</span></a><a title="Việc làm ngành Tư vấn" href="/mien-bac/viec-lam-tu-van-c178.html">Tư vấn</a></div></div><div></div><div class="flex py-1"><div class="w-1/2 md:w-2/5 text-14 text-grey-50 mr-4 md:mr-0">Khu vực tuyển:</div><div class="w-1/2 md:w-3/5 text-14 font-semibold"><span>Hà Nội</span></div></div><div class="flex py-1"><div class="w-1/2 md:w-2/5 text-14 text-grey-50 mr-4 md:mr-0">Số lượng tuyển:</div><div class="w-1/2 md:w-3/5 text-14 font-semibold">10</div></div></div><div><div class="flex py-1"><div class="w-1/2 md:w-2/5 text-14 text-grey-50 mr-4 md:mr-0">Yêu cầu độ tuổi:</div><div class="w-1/2 md:w-3/5 text-14 font-semibold">Không yêu cầu độ tuổi</div></div><div class="flex py-1"><div class="w-1/2 md:w-2/5 text-14 text-grey-50 mr-4 md:mr-0">Yêu cầu giới tính:</div><div class="w-1/2 md:w-3/5 text-14 font-semibold">Không yêu cầu</div></div><div class="flex py-1"><div class="w-1/2 md:w-2/5 text-14 text-grey-50 mr-4 md:mr-0">Yêu cầu bằng cấp:</div><div class="w-1/2 md:w-3/5 text-14 font-semibold">Trung cấp</div></div><div class="flex py-1"><div class="w-1/2 md:w-2/5 text-14 text-grey-50 mr-4 md:mr-0">Hạn nộp hồ sơ:</div><div class="w-1/2 md:w-3/5 text-14 font-semibold">19/01/2022</div></div></div></div></div><div class="JobInfo_jobInfoContainer__3WzDU px-4 md:px-10 py-4 bg-white shadow-sd-12 rounded-sm mt-4"><div><h4 class="text-18 font-semibold py-4">Mô tả công việc</h4><div class="mb-2 text-14"><p>· Kinh doanh thẻ Hội viên Golf ( Mô hình Golf 3D của Cen Group)</p><p>· Lên kế hoạch tìm kiếm khách hàng, thu hút khách hàng tiềm năng, chốt giao dịch</p><p>· Thực hiện hợp đồng hội viên, cập nhật thông tin quản lý dữ liệu khách hàng</p><p>· Chăm sóc khách hàng</p><p>· Kinh doanh dịch vụ và các gói sản phẩm Golf</p><p>· Tiến hành ký kết hợp đồng cung ứng dịch vụ</p><p>· Theo dõi tiến trình thanh toán của đơn vị tổ chức, báo cáo doanh thu và thanh lý hợp đồng</p><p>· Các công việc khác theo sự phân công của Quản lý Kinh doanh cấp cao.</p></div></div><div><h4 class="text-18 font-semibold py-4">Yêu cầu công việc</h4><div class="mb-2 text-14"><p>· Nam/ nữ, độ tuổi từ 20 – 35, giọng nói dễ nghe, ngoại hình ưa nhìn là lợi thế</p><p>· Cầu tiến, ham học hỏi, nhiệt tình tiếp thu kiến thức trong một lĩnh vực hoàn toàn mới</p><p>· Có kinh nghiệm làm SM chăm sóc khách hàng, bán hàng, tư vấn ít nhất 1 năm.</p><p>· Địa điểm làm việc: Tầng 3, Tòa nhà Golden Place, 54 Lê Văn Lương, Trung Hòa, Cầu Giấy, Hà Nội</p></div><div class="mb-2 text-14"></div></div><div><h4 class="text-18 font-semibold py-4">Quyền lợi</h4><div class="mb-2 text-14"><p>· Lương cứng: 5tr – 9tr + hoa hồng + thưởng nóng</p><p>· Thưởng nóng, hoa hồng thanh toán nhanh</p><p>· Được đào tạo chuyên nghiệp, bài bản</p><p>· Được hỗ trợ truyền thông tìm kiếm khách hàng,được hỗ trợ đội ngũ telesale chuyên nghiệp</p></div></div><div class="mt-6"><div class="flex items-center flex-col md:flex-row"><button class="py-3 px-6 mb-4 md:mb-0 bg-primary text-white text-14 rounded-sm w-full md:w-[152px]">Nộp hồ sơ</button><div class="flex justify-between w-full md:w-auto"><button class="flex items-center justify-center py-3 px-6 text-14 border border-se-line rounded-sm w-full md:w-[152px] font-semibold mr-3 md:mx-4"><i class="svicon-bookmark text-se-accent-100 pr-2 text-18"></i>Đánh dấu</button><button class="flex items-center justify-center py-3 px-6 text-14 border border-se-line rounded-sm w-full md:w-[152px] font-semibold"><i class="svicon-share-alt text-se-accent-100 pr-2 text-18"></i>Chia sẻ</button></div></div></div></div><div class="jsx-3480227626 px-4 md:px-10 py-4 bg-white shadow-sd-12 rounded-sm mt-4"><a class="jsx-3480227626" href="/danh-sach-tin-tuyen-dung-cen-land-cong-ty-co-phan-bat-dong-san-the-ky-ntd2622034p73.html"><h3 class="jsx-3480227626 text-18 font-semibold pt-4">CEN LAND - Công Ty Cổ Phần Bất Động Sản Thế Kỷ</h3></a><div class="jsx-3480227626 text-12 text-se-neutral-100-n py-1"> Tầng 3, Tòa nhà Golden Place, 54 Lê Văn Lương, Trung Hòa, Cầu Giấy, Hà Nội</div><div class="jsx-3480227626 text-12 text-se-neutral-100-n">Trên 300 người</div><div class="jsx-3480227626 mt-3 space-y-1"><div class="jsx-3480227626 flex"><div class="jsx-3480227626 w-24 text-12 text-se-neutral-48-n">Người liên hệ:</div><div class="jsx-3480227626 text-12 text-se-neutral-100-n">Phòng Nhân sự - Tập đoàn Cengroup.</div></div></div></div></div>
+<div class="table-responsive">
+            <table class="table table-striped table-sm t">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Header</th>
+                  <th>Header</th>
+                  <th>Header</th>
+                  <th>Header</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1,001</td>
+                  <td>Lorem</td>
+                  <td>ipsum</td>
+                  <td>dolor</td>
+                  <td>sit</td>
+                </tr>
+                <tr>
+                  <td>1,002</td>
+                  <td>amet</td>
+                  <td>consectetur</td>
+                  <td>adipiscing</td>
+                  <td>elit</td>
+                </tr>
+                <tr>
+                  <td>1,003</td>
+                  <td>Integer</td>
+                  <td>nec</td>
+                  <td>odio</td>
+                  <td>Praesent</td>
+                </tr>
+                <tr>
+                  <td>1,003</td>
+                  <td>libero</td>
+                  <td>Sed</td>
+                  <td>cursus</td>
+                  <td>ante</td>
+                </tr>
+                <tr>
+                  <td>1,004</td>
+                  <td>dapibus</td>
+                  <td>diam</td>
+                  <td>Sed</td>
+                  <td>nisi</td>
+                </tr>
+                <tr>
+                  <td>1,005</td>
+                  <td>Nulla</td>
+                  <td>quis</td>
+                  <td>sem</td>
+                  <td>at</td>
+                </tr>
+                <tr>
+                  <td>1,006</td>
+                  <td>nibh</td>
+                  <td>elementum</td>
+                  <td>imperdiet</td>
+                  <td>Duis</td>
+                </tr>
+                <tr>
+                  <td>1,007</td>
+                  <td>sagittis</td>
+                  <td>ipsum</td>
+                  <td>Praesent</td>
+                  <td>mauris</td>
+                </tr>
+                <tr>
+                  <td>1,008</td>
+                  <td>Fusce</td>
+                  <td>nec</td>
+                  <td>tellus</td>
+                  <td>sed</td>
+                </tr>
+                <tr>
+                  <td>1,009</td>
+                  <td>augue</td>
+                  <td>semper</td>
+                  <td>porta</td>
+                  <td>Mauris</td>
+                </tr>
+                <tr>
+                  <td>1,010</td>
+                  <td>massa</td>
+                  <td>Vestibulum</td>
+                  <td>lacinia</td>
+                  <td>arcu</td>
+                </tr>
+                <tr>
+                  <td>1,011</td>
+                  <td>eget</td>
+                  <td>nulla</td>
+                  <td>Class</td>
+                  <td>aptent</td>
+                </tr>
+                <tr>
+                  <td>1,012</td>
+                  <td>taciti</td>
+                  <td>sociosqu</td>
+                  <td>ad</td>
+                  <td>litora</td>
+                </tr>
+                <tr>
+                  <td>1,013</td>
+                  <td>torquent</td>
+                  <td>per</td>
+                  <td>conubia</td>
+                  <td>nostra</td>
+                </tr>
+                <tr>
+                  <td>1,014</td>
+                  <td>per</td>
+                  <td>inceptos</td>
+                  <td>himenaeos</td>
+                  <td>Curabitur</td>
+                </tr>
+                <tr>
+                  <td>1,015</td>
+                  <td>sodales</td>
+                  <td>ligula</td>
+                  <td>in</td>
+                  <td>libero</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+</body>
+</html>
